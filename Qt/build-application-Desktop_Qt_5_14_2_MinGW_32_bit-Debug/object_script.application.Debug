@@ -1,0 +1,17 @@
+debug/etudiant.o
+debug/main.o
+debug/login.o
+debug/matiere.o
+debug/note.o
+debug/professeur.o
+debug/secendlogin.o
+debug/welcome.o
+debug/qrc_img2.o
+debug/qrc_resource.o
+debug/moc_etudiant.o
+debug/moc_login.o
+debug/moc_matiere.o
+debug/moc_note.o
+debug/moc_professeur.o
+debug/moc_secendlogin.o
+debug/moc_welcome.o
